@@ -5,7 +5,7 @@ import java.util.Scanner;
 public class ProductAdminEx {
 
     public static void main(String[] args) {
-        int maxProducts = 10;
+        int maxProducts = 2;
         String[] productNames = new String[maxProducts];
         int[] productPrices = new int[maxProducts];
         int productCount = 0;
