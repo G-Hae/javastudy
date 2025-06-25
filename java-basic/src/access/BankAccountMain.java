@@ -6,6 +6,7 @@ public class BankAccountMain {
         BankAccount account = new BankAccount();
         account.deposit(10000);
         account.withdraw(3000);
+        // account.isAmountValid();
         System.out.println("balance = " + account.getBalance());
     }
 }

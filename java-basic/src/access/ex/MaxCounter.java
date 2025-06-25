@@ -19,4 +19,5 @@ public class MaxCounter {
     public int getCount() {
         return count;
     }
+
 }

@@ -7,7 +7,13 @@ public class CounterMain {
         counter.increment();
         counter.increment();
         counter.increment();
+        counter.increment();
+        counter.increment();
+        counter.increment();
+        counter.increment();
+        counter.increment();
         int count = counter.getCount();
         System.out.println(count);
     }
+
 }
